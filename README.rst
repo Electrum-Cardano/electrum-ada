@@ -62,4 +62,4 @@ See `readthedocs <https://electrumx-spesmilo.readthedocs.io/>`_ for more informa
 License
 =======
 
-This project is licensed under the MIT License. See the `LICENSE <LICENSE>`_ file for details.
+This project is licensed under the MIT License. See the `LICENCE <LICENCE>`_ file for details.

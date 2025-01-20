@@ -19,9 +19,9 @@ Download
 
 You can download the latest version from the links below:
 
-- `Windows <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v3.3.8/electrum-ada-3.3.8-setup.exe>`_
-- `macOS <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v3.3.8/electrum-ada-3.3.8.dmg>`_
-- `Linux <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v3.3.8/electrum-ada-3.3.8-x86_64.AppImage>`_
+- `Windows <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v.3.3/electrum-ada-3.3.8-setup.exe>`_
+- `macOS <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v.3.3/electrum-ada-3.3.8.dmg>`_
+- `Linux <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v.3.3/electrum-ada-3.3.8-x86_64.AppImage>`_
 
 Description
 ===========

@@ -38,19 +38,19 @@ Installation
 Windows
 -------
 
-1. Download the `electrum-ada-3.3.8-setup.exe <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v3.3.8/electrum-ada-3.3.8-setup.exe>`_ file.
+1. Download the `electrum-ada-3.3.8-setup.exe <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v.3.3/electrum-ada-3.3.8-setup.exe>`_ file.
 2. Run the installer and follow the instructions.
 
 macOS
 -----
 
-1. Download the `electrum-ada-3.3.8.dmg <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v3.3.8/electrum-ada-3.3.8.dmg>`_ file.
+1. Download the `electrum-ada-3.3.8.dmg <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v.3.3/electrum-ada-3.3.8.dmg>`_ file.
 2. Open the file and drag the application to the `Applications` folder.
 
 Linux
 -----
 
-1. Download the `electrum-ada-3.3.8-x86_64.AppImage <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v3.3.8/electrum-ada-3.3.8-x86_64.AppImage>`_ file.
+1. Download the `electrum-ada-3.3.8-x86_64.AppImage <https://github.com/Electrum-Cardano/electrum-ada/releases/download/v.3.3/electrum-ada-3.3.8-x86_64.AppImage>`_ file.
 2. Make the file executable: open a terminal and run ``chmod +x electrum-ada-3.3.8-x86_64.AppImage``.
 3. Run the application by double-clicking the file or via the terminal.
 
